@@ -33,7 +33,7 @@ export function Header() {
     >
       <div className="max-w-[1200px] mx-auto px-6 md:px-8">
         <div className="h-16 flex items-center justify-between">
-          <div className="font-serif text-xl tracking-wide text-[#0F172A]">東京受験学苑</div>
+          <div className="font-serif text-xl tracking-wide text-[#0F172A]">三歩塾</div>
 
           <nav className="hidden md:flex items-center gap-8">
             <button
@@ -64,7 +64,7 @@ export function Header() {
               onClick={() => scrollToSection("application")}
               className="h-12 px-6 rounded-lg bg-[#0F172A] text-white hover:bg-[#1E293B] transition-all duration-200"
             >
-              7日間返金保証で試す
+              7日間無料体験で試す
             </Button>
           </nav>
 
@@ -105,7 +105,7 @@ export function Header() {
                   onClick={() => scrollToSection("application")}
                   className="h-12 px-6 rounded-lg bg-[#0F172A] text-white hover:bg-[#1E293B] transition-all duration-200 mt-4"
                 >
-                   7日間返金保証で試す
+                   7日間無料体験で試す
                 </Button>
               </nav>
             </SheetContent>
