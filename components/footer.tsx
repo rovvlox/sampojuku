@@ -16,7 +16,7 @@ export function Footer() {
             onClick={scrollToApplication}
             className="inline-block h-12 px-8 rounded-lg bg-[#0B6DFF] text-white hover:bg-[#094FCC] transition-all duration-200 mb-8"
           >
-            7日間返金保証で試す
+            7日間無料体験で試す
           </button>
         </div>
         <div className="py-6 border-t border-[#A8B0C0]">
@@ -31,7 +31,7 @@ export function Footer() {
               利用規約
             </a>
           </div>
-          <p className="text-center text-[12px] text-[#616C7C] mt-6">© 2025 東京受験学苑. All rights reserved.</p>
+          <p className="text-center text-[12px] text-[#616C7C] mt-6">© 2025 無料体験. All rights reserved.</p>
         </div>
       </div>
     </footer>
