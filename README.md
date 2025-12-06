@@ -1,1 +1,1 @@
-# tokyojukengakuen
+# sampojuku
