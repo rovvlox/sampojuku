@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   title: "受験AIコンサル＋オンライン自習室 | 逆算する。だから迷わない。",
   description:
     "複数のAIが志望校から今日やるべきことを算出。オンライン自習室で集中を維持。受験のすべてを、一つの場所で。",
-    generator: 'v0.app'
+    generator: ''
 }
 
 export default function RootLayout({
