@@ -31,7 +31,7 @@ export function Footer() {
               利用規約
             </a>
           </div>
-          <p className="text-center text-[12px] text-[#616C7C] mt-6">© 2025 無料体験. All rights reserved.</p>
+          <p className="text-center text-[12px] text-[#616C7C] mt-6">© 2025 三歩塾. All rights reserved.</p>
         </div>
       </div>
     </footer>
