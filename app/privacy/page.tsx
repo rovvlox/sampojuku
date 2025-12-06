@@ -7,8 +7,8 @@ export default function PrivacyPolicyPage() {
         <section>
           <h1 className="font-serif text-3xl md:text-4xl tracking-wide mb-6">プライバシーポリシー</h1>
           <p className="text-sm text-[#475569] leading-relaxed">
-            東京受験学苑（以下「当学苑」）は、個人情報の重要性を認識し、以下の方針に基づいて適切な管理と保護に努めます。
-            当学苑が提供するサービスをご利用いただく際は、本ポリシーに同意のうえご利用ください。
+            三歩塾（以下「当塾」）は、個人情報の重要性を認識し、以下の方針に基づいて適切な管理と保護に努めます。
+            当塾が提供するサービスをご利用いただく際は、本ポリシーに同意のうえご利用ください。
           </p>
         </section>
 
@@ -16,7 +16,7 @@ export default function PrivacyPolicyPage() {
           <div>
             <h2 className="font-semibold text-lg">1. 個人情報の利用目的</h2>
             <p className="text-sm text-[#475569] leading-relaxed">
-              当学苑は、学習プログラムの提供、学習サポート、サービス品質向上、重要なお知らせの配信、各種問い合わせへの対応のために個人情報を利用します。
+              当塾は、学習プログラムの提供、学習サポート、サービス品質向上、重要なお知らせの配信、各種問い合わせへの対応のために個人情報を利用します。
             </p>
           </div>
           <div>
@@ -30,7 +30,7 @@ export default function PrivacyPolicyPage() {
             <p className="text-sm text-[#475569] leading-relaxed">
               個人情報への不正アクセス、紛失、破壊、改ざんおよび漏洩を防ぐため、適切な安全対策を実施します。
               個人情報の保存期間
-              当学苑は、以下の期間個人情報を保管します。
+              当塾は、以下の期間個人情報を保管します。
                ・基本的な登録情報(氏名、連絡先、学習履歴等): 退会後3年間
                ・決済関連情報: 税法に基づき7年間
                ・問い合わせ履歴: 対応完了後1年間

@@ -7,7 +7,7 @@ export default function TokushohoPage() {
         <section>
           <h1 className="font-serif text-3xl md:text-4xl tracking-wide mb-6">特定商取引法に基づく表示</h1>
           <p className="text-sm text-[#475569] leading-relaxed">
-            本ページでは、東京受験学苑（以下「当学苑」）が提供するサービスに関し、特定商取引法に基づく表示を記載しています。
+            本ページでは、三歩塾（以下「当塾」）が提供するサービスに関し、特定商取引法に基づく表示を記載しています。
             受講をご検討中の方は事前にご確認ください。
           </p>
         </section>
@@ -15,7 +15,7 @@ export default function TokushohoPage() {
         <section className="space-y-4">
           <div>
             <h2 className="font-semibold text-lg">事業者</h2>
-            <p className="text-sm text-[#475569]">東京受験学苑</p>
+            <p className="text-sm text-[#475569]">三歩塾</p>
           </div>
           <div>
             <h2 className="font-semibold text-lg">運営責任者</h2>
