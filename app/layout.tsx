@@ -16,9 +16,9 @@ const notoSerifJP = Noto_Serif_JP({
 })
 
 export const metadata: Metadata = {
-  title: "受験AIコンサル＋オンライン自習室 | 逆算する。だから迷わない。",
+  title: "受験AIコンサル＋オンライン自習室 | 「その言い訳に、さようなら。」",
   description:
-    "複数のAIが志望校から今日やるべきことを算出。オンライン自習室で集中を維持。受験のすべてを、一つの場所で。",
+    "AIが志望校と現状から今日やるべきことを算出。オンライン自習室で集中を維持。受験のすべてを、一つの場所で。",
     generator: ''
 }
 
