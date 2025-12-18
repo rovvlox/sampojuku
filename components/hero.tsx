@@ -27,7 +27,7 @@ export function Hero() {
               onClick={scrollToApplication}
               className="h-14 px-8 rounded-none bg-[#0F172A] text-white hover:bg-[#1E293B] transition-all duration-200 text-base font-medium"
             >
-              7日間無料体験で試す
+              無料体験で試す
             </Button>
           </div>
           <div className="flex items-center gap-8 text-[#64748B] text-sm font-mono">
