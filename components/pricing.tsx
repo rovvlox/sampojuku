@@ -4,30 +4,30 @@ export function Pricing() {
   const plans = [
     {
       name: 'ライトプラン',
-      joinFee: '¥0円',
+      joinFee: '0円',
       classType: '✕',
-      monthly: '¥5,000',
+      monthly: '5,000',
       featured: false,
     },
     {
       name: 'スタンダードプラン',
-      joinFee: '¥10,000円',
+      joinFee: '10,000円',
       classType: '○',
-      monthly: '¥10,000',
+      monthly: '10,000',
       featured: true, // 人気プラン
     },
     {
       name: 'プレミアムプラン',
-      joinFee: '¥10,000円',
+      joinFee: '10,000円',
       classType: '○',
-      monthly: '¥20,000',
+      monthly: '20,000',
       featured: false,
     },
     {
       name: '資格取得プラン',
-      joinFee: '¥20,000円',
+      joinFee: '20,000円',
       classType: '○',
-      monthly: '¥30,000',
+      monthly: '30,000',
       featured: false,
     },
   ];
